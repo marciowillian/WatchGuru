@@ -23,10 +23,8 @@ body {
     font-size: 1em;
 }
 
-.footer > div {
-    text-align: left;
-}
-
-.footer > input {
-    text-align: right;
+.button--position {
+    position: absolute;
+    right: 30px;
+    bottom: 20px;
 }
