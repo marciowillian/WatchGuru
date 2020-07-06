@@ -1,0 +1,19 @@
+.logotipo {
+    padding: 10px;
+    margin-right: 20px;
+
+}
+
+.logotipo img{
+    height: 30px;
+}
+
+
+/*       */
+/* BOTAO */
+/*       */
+.botao-nav {
+    position: absolute;
+    right: 30px;
+    top: 20px;
+}
